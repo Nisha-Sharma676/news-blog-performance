@@ -1,4 +1,4 @@
-# Prompts & Engineering Log: News Blog Performance Optimization (ENG-84718)
+# Prompts & Engineering Log: News Blog Performance Optimization 
 
 This document records the actual prompts and engineering instructions executed during the development of the News Blog Performance Optimization project.
 
@@ -8,7 +8,7 @@ This document records the actual prompts and engineering instructions executed d
 
 ### Prompt
 ```markdown
-We are starting the mandatory Test-Driven Development (TDD) phase for the News Blog Performance Optimization project (ENG-84718).
+We are starting the mandatory Test-Driven Development (TDD) phase for the News Blog Performance Optimization project .
 
 Before implementing any application functionality, analyze the project requirements and create a comprehensive Vitest test suite.
 
@@ -57,7 +57,7 @@ Wait for approval before starting implementation.
 
 ### Prompt
 ```markdown
-The TDD Red Phase is complete. I approve starting the implementation phase for ENG-84718.
+The TDD Red Phase is complete. I approve starting the implementation phase .
 
 Now implement the News Blog Performance Optimization dashboard in React to make the existing Vitest test suite pass.
 
